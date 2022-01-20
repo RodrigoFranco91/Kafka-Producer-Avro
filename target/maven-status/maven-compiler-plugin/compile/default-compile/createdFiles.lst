@@ -1,0 +1,7 @@
+br\com\springkafka\People$Builder.class
+br\com\springkafka\dto\PeopleDto.class
+br\com\springkafka\SpringkafkaApplication.class
+br\com\springkafka\configuration\KafkaTopicConfiguration.class
+br\com\springkafka\People.class
+br\com\springkafka\producer\PeopleProducer.class
+br\com\springkafka\controller\PeopleController.class
